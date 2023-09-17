@@ -17,6 +17,7 @@ When an atom or molecule absorbs a photon of energy, it can be excited to a high
 The fine and hyperfine splitting of energy levels can be detected by measuring the spectrum of the emitted photons. For example, if we excite a hydrogen atom to a higher energy level, it will emit a photon of energy when it decays back to the ground state. However, due to the fine and hyperfine splitting of the energy levels, the emitted photon can have multiple different wavelengths.
 
 To measure the spectrum of the emitted photons, we can use a spectrometer. The spectrometer will separate the photons into different wavelengths, and we can then measure the intensity of the photons at each wavelength. The resulting spectrum will show multiple peaks at different wavelengths, corresponding to the different fine and hyperfine structure components of the spectral line.
+
 ![](imgs/fine_peaks.png)
 *The Gaussian fit to the Doppler broadened signal
 showing the frequency separation between the Rubidium-87 F=1 and
