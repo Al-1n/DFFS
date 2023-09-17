@@ -12,6 +12,9 @@ The quantization of angular momentum has important implications for the energy l
 
 To detect the fine and hyperfine splitting of energy levels by spectroscopy, we can use a spectrometer to measure the spectrum of the atom or molecule of interest. A spectrometer is an instrument that measures the wavelength or frequency of electromagnetic radiation.
 
+![](imgs/Rb.jpeg)
+*Actual image from the experiment showing the laser beam passing through the rubidium cell.*
+
 When an atom or molecule absorbs a photon of energy, it can be excited to a higher energy level. When the atom or molecule then decays back to a lower energy level, it emits a photon of energy. The wavelength or frequency of the emitted photon is characteristic of the energy difference between the two energy levels.
 
 The fine and hyperfine splitting of energy levels can be detected by measuring the spectrum of the emitted photons. For example, if we excite a hydrogen atom to a higher energy level, it will emit a photon of energy when it decays back to the ground state. However, due to the fine and hyperfine splitting of the energy levels, the emitted photon can have multiple different wavelengths.
