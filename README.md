@@ -1,5 +1,5 @@
 # DFFS
-##Analyzing the Doppler Free Saturation Spectroscopy of Rubidium using Python
+## Analyzing the Doppler Free Saturation Spectroscopy of Rubidium using Python
 
 ![](imgs/Rb5.jpeg)
 *Image credit [Dnn87](https://commons.wikimedia.org/wiki/User:Dnn87). This file is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/deed.en) license.*
