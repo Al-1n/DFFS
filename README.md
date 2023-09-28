@@ -7,7 +7,7 @@
 
 **About the project**
 
-![](/img/python_icon.png)
+![](/img/python_icon.png) ![](/img/jupyter_icon.png)
 
 This repository contains Python code for analyzing data from a real-world quantum mechanics lab experiment. The experiment involved using laser pulses to excite Rubidium atoms in a vapor cell, aiming to uncover key features of the atomic structure.
 
